@@ -1,0 +1,3 @@
+Input contains PGM file. Convert it to 2D array by executing main.cpp.
+Then the user inputs the query on a visual tool on our website, number of objects to be identified and their shapes and dimensions (eg- Square and Rectangle).
+Then again run main.cpp, this saves - object ID, object type, coordinates of relevant points and whether the object selected by the user is present or not in our warehouse.
